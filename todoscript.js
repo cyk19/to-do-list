@@ -29,16 +29,6 @@ list.addEventListener('click', function(ev) {
   }
 }, false);
 
-// Add a "checked symbol when clicking on a list item 
-//var list = document.getElementByID('myUL'); 
-// usually get object by class
-//.addEventListener(event, function, capture(true/false) ; capture noti appears first
-//list.addEventListener('click', function(ev) { 
-//	if (ev.target.tagName === "LI") {
-//		ev.target.classList.toggle('checked'); 
-		//.toggle add something to the classlist of the object
-//	}
-//}, false);
 		
 // create new list item when clicking add button
 function newElement() {
