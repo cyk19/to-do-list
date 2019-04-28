@@ -5,6 +5,6 @@ I designed this website with the source code reference from [w3schools.com](http
 
 Designing this website, I have learned: 
 1. Syntax of Javascript
-2. JavaScript HTML DOM to react to HTML element
+2. JavaScript HTML DOM to react to HTML elements
 
 
